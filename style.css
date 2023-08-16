@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color:rgb(69, 66, 238);
+    display:flex;
+    height: 60px;
+    width: 100%;
+
+}
+img{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 100px;
+    height: 24px;
+    padding-bottom: 0;
+    margin-left: 100px;
+}
+.explore{
+    font-style: italic;
+    margin-top:30px;
+    margin-left: -100px;
+    color: white;
+
+}
+.plus{
+    color: yellow;
+    margin-top: 30px;
+    margin-left: 3px;
+    font-style: italic;
+
+}
+.star{
+    width: 13px;
+    height: 10px;
+    margin-left: 5px;
+    margin-top: 33px;
+}
+.search{
+    display: flex;
+    width:550px;
+    height: 30px;
+    margin-top:15px;
+    margin-left: 20px;
+    border-radius: 0;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+
+    
+}
+.form{
+    border:none;
+}
+.button{
+  margin-top:16px;
+  margin-left:15px;
+  height:28px;
+  width:105px;
+  color: blue;
+}
+.text{
+    color: white;
+    margin-top: 20px;
+    margin-left:40px;
+
+}
+.material-icons{
+    color:rgb(39, 39, 180);
+    margin-left:-24px;
+    margin-top:20px;
+    padding-top: -16px;
+}
+.text1{
+    color: white;
+    margin-top: 20px;
+    margin-left:40px;
+
+}
+#icon{
+    color: white;  margin-top: 23px;
+    margin-left:1px;
+    font-size: 13px;
+
+}
+#cart{
+    color: white;  margin-top: 23px;
+    margin-left:40px;
+    font-size: 13px;
+    font-size: large;
+}
+.text2{
+    padding: 100px;
+    margin-top:-79px;
+    margin-left:-93px;
+    font-size: large;
+    color: #fff;
+}
+.image img{
+    height:110px;
+    width:100px;
+    margin-top:0px;
+}
+.top_offer{
+    margin-left:115px;
+    margin-top:-10px;
+    font-size: large;
+    font-style: bold;
+}
+.groccery_image img{
+    height: 80px;
+    width: 129px;
+    margin-top: -109px;
+    margin-left: 265px;
+
+}
+.grocery_text{
+    margin-left:280px;
+    margin-top:5px;
+    font-size: large;
+    font-style: bold;
+}
+.mobile_image img{
+    height: 80px;
+    width: 129px;
+    margin-top: -109px;
+    margin-left: 470px;
+
+}
+.mobile_text{
+    margin-left:500px;
+    margin-top:5px;
+    font-size: large;
+    font-style: bold;
+
+}
+.fashion_image img{
+    height: 75px;
+    width: 120px;
+    margin-top: -100px;
+    margin-left: 670px;
+
+}
+.fashion_text{
+    margin-left:700px;
+    margin-top:5px;
+    font-size: large;
+    font-style: bold;
+
+
+}
+.electronics_image img{
+    height: 85px;
+    width: 120px;
+    margin-top: -110px;
+    margin-left: 838px;
+
+}
+.electronics_text{
+    margin-left:850px;
+    margin-top:3px;
+    font-size: large;
+    font-style: bold;
+
+
+}
+.appliances_image img{
+    height: 77px;
+    width: 110px;
+    margin-top: -100px;
+    margin-left: 1038px;
+
+}
+.appliances_text{
+    margin-left:1060px;
+    margin-top:3px;
+    font-size: large;
+    font-style: bold;
+
+}
+.two_wheeler_image img{
+    height: 77px;
+    width: 110px;
+    margin-top: -100px;
+    margin-left: 1210px;
+
+}
+.two_wheelers_text{
+    margin-left:1230px;
+    margin-top:3px;
+    font-size: large;
+    font-style: bold;
+
+}
